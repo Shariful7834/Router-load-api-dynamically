@@ -1,0 +1,17 @@
+.header {
+  margin-top: 30px;
+}
+.header a {
+  text-decoration: none;
+  font-size: 2rem;
+  margin-left: 10px;
+  color: black;
+  padding: 10px;
+}
+.header a:hover {
+  color: tomato;
+  background-color: aquamarine;
+}
+.active {
+  background-color: yellow;
+}
